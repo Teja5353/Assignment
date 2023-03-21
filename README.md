@@ -1,2 +1,2 @@
 # Assignment2
-Coursera-Html,Css Assignment
+Coursera-Html, CSS Assignment
